@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": "cute",
+            "name": "🎀 Onii Chaan",
+            "callback_data": "category_cute"
+        },
+        {
+            "id": "little_cute",
+            "name": "🥺 Little Cute",
+            "callback_data": "category_little_cute"
+        },
+        {
+            "id": "dark_cute",
+            "name": "😵‍💫 Yamete kudasai",
+            "callback_data": "category_dark_cute"
+        }
+    ]
+}
